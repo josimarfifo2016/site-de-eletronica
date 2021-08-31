@@ -6,5 +6,5 @@ body{background-image:linear-gradient(to right ,#AEF5DC,#ACC8DC,#9EEB8D,#BCB1F2,
 
 h2{text-decoration-line: underline;text-align: center}
 h3{text-decoration-line: underline;text-align: center}
-.
-
+Nav.{
+}
